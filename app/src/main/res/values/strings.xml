@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="top_text"><u>Work Things to Complete</u></string>
+    <string name="percentage"> %1$s%2$s</string>
+</resources>
